@@ -8,7 +8,7 @@ Ce projet a pour objectif d'effectuer une analyse exploratoire et un prétraitem
 
 Le projet est divisé en deux parties principales :
 
-# Projet de Data Mining - Partie 2
+# Projet de Data Mining - Partie 1
 1. **Analyse Exploratoire des Données (AED)** : 
    - Examen des attributs, des valeurs et des distributions.
    - Identification des problèmes potentiels tels que les valeurs aberrantes et les données manquantes.
